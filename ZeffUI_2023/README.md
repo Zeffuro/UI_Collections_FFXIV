@@ -1,5 +1,19 @@
+# ZeffUI for DelvUI
 This is my personal UI that may or may not change a bit when Dawntrail comes out
 
-Here's a video about my UI in use.
+![ZeffUI Preview](./Preview/ZeffUI.jpg?raw=true "ZeffUI Preview")
 
-[![ZeffdUI Video](https://img.youtube.com/vi/XS2XdVPYSrU/0.jpg)](https://www.youtube.com/watch?v=XS2XdVPYSrU)
+Here's a video with my UI in use.
+
+[![ZeffUI Video](./Preview/VideoPreview.png)](https://www.youtube.com/watch?v=XS2XdVPYSrU)
+
+## Fonts
+Instructions for the fonts can be found here: [Instructions](./Fonts/README.md)
+
+## DelvUI + DelvCD (Unit Frames, Nameplates, Cooldowns)
+DelvUI: [Export](./DelvUI.txt?raw=true)  
+DelvCD: [Export](./DelvCD.txt?raw=true)  (These are optional and very personalized to my own UI)
+
+## Kagerou (DPS Meter)
+Kagerou: [Export](./Kagerou.txt?raw=true)  
+Kagerou CSS: [Export](./Kagerou.css?raw=true)  
