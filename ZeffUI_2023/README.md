@@ -11,9 +11,9 @@ Here's a video with my UI in use.
 Instructions for the fonts can be found here: [Instructions](./Fonts/README.md)
 
 ## DelvUI + DelvCD (Unit Frames, Nameplates, Cooldowns)
-DelvUI: [Export](./DelvUI.txt?raw=true)  
-DelvCD: [Export](./DelvCD.txt?raw=true)  (These are optional and very personalized to my own UI)
+DelvUI: [Export](./DelvUI.txt)  
+DelvCD: [Export](./DelvCD.txt)  (These are optional and very personalized to my own UI)
 
 ## Kagerou (DPS Meter)
-Kagerou: [Export](./Kagerou.txt?raw=true)  
-Kagerou CSS: [Export](./Kagerou.css?raw=true)  
+Kagerou: [Export](./Kagerou.txt)  
+Kagerou CSS: [Export](./Kagerou.css)  
