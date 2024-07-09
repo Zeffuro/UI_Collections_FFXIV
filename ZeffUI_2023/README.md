@@ -1,5 +1,5 @@
 # ZeffUI for DelvUI
-This is my personal UI that may or may not change a bit when Dawntrail comes out
+This is my personal UI that was my primary UI before Dawntrail came out.
 
 ![ZeffUI Preview](./Preview/ZeffUI.jpg?raw=true "ZeffUI Preview")
 
