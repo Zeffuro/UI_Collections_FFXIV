@@ -1,4 +1,4 @@
-A simple step tracker for Dancer.
+A simple step tracker for Dancer by Zeffuro
 
 Supports both Standard Step and Technical Step
 
